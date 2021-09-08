@@ -1,0 +1,1 @@
+factorial is 120

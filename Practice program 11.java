@@ -16,3 +16,4 @@ public static void main(String args[])
     two2 o=new two2();
     o.area();
 }
+} 

@@ -7,4 +7,4 @@ class A{
    sb.append("java is my favourite language"); 
    System.out.println(sb.capacity());//now (16*2)+2=34 i.e (oldcapacity*2)+2 
  } 
-1 }
+}

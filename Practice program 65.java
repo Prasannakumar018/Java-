@@ -1,5 +1,5 @@
 import java.io.DataInputStream;
-public class CalculatorDISteam01
+public class CalculatorDISteam0
 {
 public static void main(String args[])
 {
